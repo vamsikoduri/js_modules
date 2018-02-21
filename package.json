@@ -1,0 +1,22 @@
+{
+  "name": "js_modules",
+  "version": "1.0.0",
+  "description": "this repo contains code examples from udm webpack",
+  "main": "index.js",
+  "scripts": {
+   "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsikoduri/js_modules.git"
+  },
+  "author": "vamc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamsikoduri/js_modules/issues"
+  },
+  "homepage": "https://github.com/vamsikoduri/js_modules#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
+}
